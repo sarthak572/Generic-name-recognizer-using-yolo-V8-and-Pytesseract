@@ -1,0 +1,1 @@
+# Generic-name-recognizer-using-yolo-V8-and-Pytesseract
